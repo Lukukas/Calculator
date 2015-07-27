@@ -1,0 +1,19 @@
+C:\Users\Lukukas\AppData\Local\Temporary Projects\Calculator\bin\Debug\Calculator.exe
+C:\Users\Lukukas\AppData\Local\Temporary Projects\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Lukukas\AppData\Local\Temporary Projects\Calculator\obj\x86\Debug\Calculator.Form1.resources
+C:\Users\Lukukas\AppData\Local\Temporary Projects\Calculator\obj\x86\Debug\Calculator.Properties.Resources.resources
+C:\Users\Lukukas\AppData\Local\Temporary Projects\Calculator\obj\x86\Debug\Calculator.csproj.GenerateResource.Cache
+C:\Users\Lukukas\AppData\Local\Temporary Projects\Calculator\obj\x86\Debug\Calculator.exe
+C:\Users\Lukukas\AppData\Local\Temporary Projects\Calculator\obj\x86\Debug\Calculator.pdb
+C:\Users\Lukukas\CSharpStuff\Calculator\Calculator\obj\x86\Debug\Calculator.exe
+C:\Users\Lukukas\CSharpStuff\Calculator\Calculator\obj\x86\Debug\Calculator.pdb
+C:\Users\Lukukas\CSharpStuff\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\Lukukas\CSharpStuff\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Lukukas\CSharpStuff\Calculator\Calculator\obj\x86\Debug\Calculator.Form1.resources
+C:\Users\Lukukas\CSharpStuff\Calculator\Calculator\obj\x86\Debug\Calculator.Properties.Resources.resources
+C:\Users\Lukukas\CSharpStuff\Calculator\Calculator\obj\x86\Debug\Calculator.csproj.GenerateResource.Cache
+C:\Users\Lukukas\CSharpStuff\Calculator\Calculator\bin\Debug\Calculator.exe.manifest
+C:\Users\Lukukas\CSharpStuff\Calculator\Calculator\bin\Debug\Calculator.application
+C:\Users\Lukukas\CSharpStuff\Calculator\Calculator\obj\x86\Debug\Calculator.exe.manifest
+C:\Users\Lukukas\CSharpStuff\Calculator\Calculator\obj\x86\Debug\Calculator.application
+C:\Users\Lukukas\CSharpStuff\Calculator\Calculator\obj\x86\Debug\Calculator.csprojResolveAssemblyReference.cache

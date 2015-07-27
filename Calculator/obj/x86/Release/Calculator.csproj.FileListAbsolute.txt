@@ -1,0 +1,11 @@
+C:\Users\Lukukas\CSharpStuff\Calculator\Calculator\bin\Release\Calculator.exe
+C:\Users\Lukukas\CSharpStuff\Calculator\Calculator\bin\Release\Calculator.pdb
+C:\Users\Lukukas\CSharpStuff\Calculator\Calculator\obj\x86\Release\Calculator.Form1.resources
+C:\Users\Lukukas\CSharpStuff\Calculator\Calculator\obj\x86\Release\Calculator.Properties.Resources.resources
+C:\Users\Lukukas\CSharpStuff\Calculator\Calculator\obj\x86\Release\Calculator.csproj.GenerateResource.Cache
+C:\Users\Lukukas\CSharpStuff\Calculator\Calculator\obj\x86\Release\Calculator.exe
+C:\Users\Lukukas\CSharpStuff\Calculator\Calculator\obj\x86\Release\Calculator.pdb
+C:\Users\Lukukas\CSharpStuff\Calculator\Calculator\bin\Release\Calculator.exe.manifest
+C:\Users\Lukukas\CSharpStuff\Calculator\Calculator\bin\Release\Calculator.application
+C:\Users\Lukukas\CSharpStuff\Calculator\Calculator\obj\x86\Release\Calculator.exe.manifest
+C:\Users\Lukukas\CSharpStuff\Calculator\Calculator\obj\x86\Release\Calculator.application
